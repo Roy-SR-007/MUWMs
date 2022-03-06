@@ -1,6 +1,6 @@
 # MUWMs - Mutually Unbiased Weighing Matrices
 
-### Ajeet Kumar, Dr. Subhamoy Maitra and Somjit Roy
+### Ajeet Kumar^(1), Dr. Subhamoy Maitra and Somjit Roy
 
 This is a repository created in view of documenting and storing the codes related to the research on Mutually Unbiased Weighing Matrices.
 
