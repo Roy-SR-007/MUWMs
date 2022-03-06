@@ -1,6 +1,6 @@
 # MUWMs - Mutually Unbiased Weighing Matrices
 
-### Ajeet Kumar (1), Dr. Subhamoy Maitra (1) and Somjit Roy (2)
+### Arkabrata Das (1), Ajeet Kumar (1), Dr. Subhamoy Maitra (1) and Somjit Roy (2)
 
 #### (1) Applied Statistics Unit, Indian Statistical Institute, India, Kolkata
 #### (2) Department of Statistics, University of Calcutta, India, Kolkata
